@@ -1,0 +1,212 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="Star Jalsha" tvg-logo="http://10.16.100.244/files/starjalsha.png" tvg-name="Star Jalsha"  group-title="indian bangla",Star Jalsha
+http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/zeebangla.png" tvg-name="Zee bangla"  group-title="indian bangla",Zee bangla
+http://10.16.100.204:8082/hls/z_bangla_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/sonyaath(1).png" tvg-name="Sony 8"  group-title="indian bangla",Sony 8
+http://10.16.100.204:8082/hls/sony_aat_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/colorsbangla.png" tvg-name="Colors bangla"  group-title="indian bangla",Colors bangla
+http://10.16.100.204:8082/hls/coLors_bangla_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/akashaath.png" tvg-name="Akash 8"  group-title="indian bangla",Akash 8
+http://10.16.100.204:8082/hls/akash_aat_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/khushboobangla.png" tvg-name="Khushboo bangla"  group-title="indian bangla",Khushboo bangla
+http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/kolkatatv.png" tvg-name="Kolkata TV"  group-title="indian bangla",Kolkata TV
+http://10.16.100.204:8082/hls/kolkatatv_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/andpictureshd.png" tvg-name="& pictyres HD"  group-title="hindi movie",& pictyres HD
+http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/b4umovies.png" tvg-name="B4U Movies"  group-title="hindi movie",B4U Movies
+http://10.16.100.208:8082/hindi/B4Umovies_1stop_in.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/wowcinema.png" tvg-name="WOW Cinema"  group-title="hindi movie",WOW Cinema
+http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/andtv.png" tvg-name="& TV"  group-title="hindi",& TV
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/colors.png" tvg-name="Colors"  group-title="hindi",Colors
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/sony.png" tvg-name="Sony TV"  group-title="hindi",Sony TV
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/starplus.png" tvg-name="STAR PLUS"  group-title="hindi",STAR PLUS
+http://10.16.100.200:8082/hls/star_Plus_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/zeetv.png" tvg-name="ZEE TV"  group-title="hindi",ZEE TV
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/9xm.png" tvg-name="9XM"  group-title="music",9XM
+http://10.16.100.200:8082/hls/nine_xm_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/b4umusic.png" tvg-name="B4U MUSIC"  group-title="music",B4U MUSIC
+http://10.16.100.200:8082/hls/bforu_music_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/dhoommusic.png" tvg-name="DHOOM MUSIC"  group-title="music",DHOOM MUSIC
+http://10.16.100.200:8082/hls/Dhoom_music_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/gaanbangla(1).png" tvg-name="GAAN BANGLA"  group-title="music",GAAN BANGLA
+http://10.16.100.200:8082/hls/gan_bangla_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/mtunes.png" tvg-name="M TUNES"  group-title="music",M TUNES
+http://10.16.100.200:8082/hls/m_tuNes_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/sbangla.png" tvg-name="SANGEET BANGLA"  group-title="music",SANGEET BANGLA
+http://10.16.100.200:8082/hls/songet_bangla_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/gazitv(8).png" tvg-name="GAZI TV HD"  group-title="sports",GAZI TV HD
+http://10.16.100.207:8082/sports/gazi_tv_bkp_dish.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/gazitv(8).png" tvg-name="GAZI TV HD"  group-title="sports",GAZI TV HD
+http://10.16.100.207:8082/sports/gazi_tvhd_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/sonysixhd(4).png" tvg-name="SONY SIX HD"  group-title="sports",SONY SIX HD
+http://10.16.100.207:8082/sports/soNy6_dish.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/ten2(3).png" tvg-name="SONT TEN 2"  group-title="sports",SONT TEN 2
+http://10.16.100.207:8082/sports/sony_ten2_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/starsports1(2).png" tvg-name="STAR SPORTS 1"  group-title="sports",STAR SPORTS 1
+http://10.16.100.207:8082/sports/star_sports_1_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/starsportsselect1(1).png" tvg-name="STAR SPORTS SELECT 1"  group-title="sports",STAR SPORTS SELECT 1
+http://10.16.100.207:8082/sports/star_sportsselect1_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/tsports(1).png" tvg-name="T SPORTS"  group-title="sports",T SPORTS
+Unsorted
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/tsports(1).png" tvg-name="T PORTS (3)"  group-title="sports",T PORTS (3)
+Unsorted
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/asiantv.png" tvg-name="ASIAN TV"  group-title="bangla",ASIAN TV
+http://10.16.100.201:8082/bangla/asiAntv_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/atnbangla.png" tvg-name="ATN BANGLA"  group-title="bangla",ATN BANGLA
+http://10.16.100.201:8082/bangla/aTn_bangla_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/atnnews.png" tvg-name="ATN NEWS"  group-title="bangla",ATN NEWS
+http://10.16.100.205/hls/news_atn_london720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/banglatv.png" tvg-name="BANGLA TV"  group-title="bangla",BANGLA TV
+http://10.16.100.201:8082/bangla/baNgLa_tv_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/bijoytv(1).png" tvg-name="BJOY TV"  group-title="bangla",BJOY TV
+http://10.16.100.201:8082/bangla/biJoy_TV_Local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/channel24.png" tvg-name="CHANNEL 24"  group-title="bangla",CHANNEL 24
+http://10.16.100.205/hls/ch24.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/channel9(1).png" tvg-name="CHANNEL 9"  group-title="bangla",CHANNEL 9
+http://10.16.100.203:8082/bangla/chanNel9_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/channeli.png" tvg-name="CHANNEL I"  group-title="bangla",CHANNEL I
+http://10.16.100.205/hls/ch_i.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/dbcnews(1).png" tvg-name="DBC NEWS"  group-title="bangla",DBC NEWS
+http://10.16.100.201:8082/bangla/dBc_news_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/deeptotv.png" tvg-name="DEEPTO TV"  group-title="bangla",DEEPTO TV
+http://10.16.100.201:8082/bangla/DeptO_tV_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/deshtv(1).png" tvg-name="DESH TV"  group-title="bangla",DESH TV
+http://10.16.100.205/hls/des_tv_local480.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/ekattortv.png" tvg-name="EKATTOR TV"  group-title="bangla",EKATTOR TV
+http://10.16.100.205/hls/ekattor_hd_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/ekusheytv(1).png" tvg-name="ETV"  group-title="bangla",ETV
+http://10.16.100.205/hls/21etv.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/ntv(1).png" tvg-name="NTV"  group-title="bangla",NTV
+http://10.16.100.205/hls/ntv_b_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/mytv.jpg" tvg-name="MY TV"  group-title="bangla",MY TV
+http://10.16.100.205/hls/my_tv_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/satv(1).png" tvg-name="SA TV"  group-title="bangla",SA TV
+Unsorted
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/jamuna.png" tvg-name="JAMUNA TV"  group-title="bangla",JAMUNA TV
+http://10.16.100.201:8082/bangla/jaMuna_tv_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/mohona(3).png" tvg-name="MOHONA TV"  group-title="bangla",MOHONA TV
+http://10.16.100.205/hls/mohona_tv_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/news24(1).png" tvg-name="NEWS 24"  group-title="bangla",NEWS 24
+http://10.16.100.201:8082/bangla/nEws24_local.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://10.16.100.244/files/nagorik.png" tvg-name="NAGORIK TV"  group-title="bangla",NAGORIK TV
+http://10.16.100.201:8082/bangla/naGorik_Tv_local.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://10.16.100.244/files/dark_room.jpg" tvg-name="DARK ROOM"  group-title="NEW MOVIE",DARK ROOM
+http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Bangla%20(BD)/Dark%20Room%20(2021)%20720p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://10.16.100.244/files/dial_100.jpg" tvg-name="DIAL 100"  group-title="NEW MOVIE",DIAL 100
+http://10.16.100.206/ftps3/ftps3d3/Movies/Hindi/Dial%20100%20(2021)%201080p%20WEBDL.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://10.16.100.244/files/shahoshika.jpeg" tvg-name="SHAHOSHIKA"  group-title="NEW MOVIE",SHAHOSHIKA
+http://10.16.100.206/ftps3/ftps3d6/TV%20Shows/Bangla%20Telefilm/Shahoshika%20(2021)%201080p%20WEBHD.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://10.16.100.244/files/mimi.jpg" tvg-name="MIMI"  group-title="NEW MOVIE",MIMI
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Mimi%20(2021)%201080p%20WEBDL.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://10.16.100.244/files/bhuj_the_pride_of_india.jpg" tvg-name="Bhuj -THE PRIDE OF INDIA"  group-title="NEW MOVIE",Bhuj -THE PRIDE OF INDIA
+http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Bhuj%20The%20Pride%20of%20India%20(2021)%201080p%20WEBDL.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://10.16.100.244/files/risen.jpg" tvg-name="RISEN"  group-title="NEW MOVIE",RISEN
+http://10.16.100.206/ftps3/ftps3d8/Movies/English/Risen%20(2021)%201080p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://10.16.100.244/files/annette.jpg" tvg-name="ANNETTE"  group-title="NEW MOVIE",ANNETTE
+http://10.16.100.206/ftps3/ftps3d4/Movies/English/Annette%20(2021)%201080p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://10.16.100.244/files/badnaam.jpg" tvg-name="BADNAAM"  group-title="NEW MOVIE",BADNAAM
+http://10.16.100.206/ftps3/ftps3d1/Movies/Hindi/Badnaam%20(2020)%201080p%20WEBDL.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://10.16.100.244/files/bellbottom.jpg" tvg-name="BELLBOTTOM"  group-title="NEW MOVIE",BELLBOTTOM
+http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Hindi/Bellbottom%20(2021)%201080p%20DVDRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Bangla%20Drama/My%20Emotional%20Wife%20(%e0%a6%ae%e0%a6%be%e0%a6%87%20%e0%a6%87%e0%a6%ae%e0%a7%8b%e0%a6%b6%e0%a6%a8%e0%a6%be%e0%a6%b2%20%e0%a6%93%e0%a7%9f%e0%a6%be%e0%a6%87%e0%a6%ab)%20(2021)%201080p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Bangla%20Drama/Munnar%20Girlfriend%20(%e0%a6%ae%e0%a7%81%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%be%e0%a6%b0%20%e0%a6%97%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%b2%e0%a6%ab%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%a1)%20(2021)%201080p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Bangla%20Drama/Mon%20Oborodh%20(%e0%a6%ae%e0%a6%a8%20%e0%a6%85%e0%a6%ac%e0%a6%b0%e0%a7%8b%e0%a6%a7)%20(2021)%201080p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Bangla%20Drama/Mejaj%20Kharap%20(%e0%a6%ae%e0%a7%87%e0%a6%9c%e0%a6%be%e0%a6%9c%20%e0%a6%96%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%aa)%20(2021)%201080p%20WEBHD.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Bangla%20Drama/Mamma%20Tumi%20caught%20(%e0%a6%ae%e0%a6%be%e0%a6%ae%e0%a7%8d%e0%a6%ae%e0%a6%be%20%e0%a6%a4%e0%a7%81%e0%a6%ae%e0%a6%bf%20%e0%a6%95%e0%a6%9f)%20(2021)%201080p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Bangla%20Drama/Magnet%20Man%20(%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%97%e0%a6%a8%e0%a7%87%e0%a6%9f%20%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8)%20(2021)%201080p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Bangla%20Drama/Lulu%20Pagol%20(%e0%a6%b2%e0%a7%81%e0%a6%b2%e0%a7%81%20%e0%a6%aa%e0%a6%be%e0%a6%97%e0%a6%b2)%20(2021)%201080p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Bangla%20Drama/Kosai%20Gang%20(%e0%a6%95%e0%a6%b8%e0%a6%be%e0%a6%87%20%e0%a6%97%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%82)%20(2021)%201080p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Bangla%20Drama/Korbani%20Competition%20(%e0%a6%95%e0%a7%8b%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a6%bf%20%e0%a6%95%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a6%bf%e0%a6%9f%e0%a6%bf%e0%a6%b6%e0%a6%a8)%20(2021)%201080p%20WEBRip.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd9/TV%20Shows/Bangla%20Drama/My%20Name%20Is%20Fokir%20(%e0%a6%ae%e0%a6%be%e0%a6%87%20%e0%a6%a8%e0%a7%87%e0%a6%ae%20%e0%a6%87%e0%a6%9c%20%e0%a6%ab%e0%a6%95%e0%a6%bf%e0%a6%b0)%20(2021)%201080p%20WEBHD.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="NATOK",New Channel
+http://10.16.100.202/ftps10/iccftps10sasd9/TV%20Shows/Bangla%20Drama/Nana%20Bari%20(%e0%a6%a8%e0%a6%be%e0%a6%a8%e0%a6%be%20%e0%a6%ac%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%bf)%20(2021)%201080p%20WEBHD.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VOTER"  group-title="HINDI DABBED MOVIE",VOTER
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/South%20Indian%20(Hindi%20Dubbed)/Tholiprema%20(Tholi%20Prema)%20(2018)%20720p%20WEBRip.mkv
+
